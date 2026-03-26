@@ -1,0 +1,23 @@
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  min-width: 320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: clamp(1rem, 4vw, 3rem);
+  background: radial-gradient(circle at 15% 20%, rgba(66, 107, 255, 0.35), transparent 60%),
+    radial-gradient(circle at 80% 0%, rgba(27, 230, 173, 0.2), transparent 55%),
+    #020308;
+}
+
+button {
+  font: inherit;
+}
