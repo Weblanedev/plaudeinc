@@ -8,7 +8,7 @@ function App() {
     <main className="coming-soon-wrapper">
       <section className="coming-soon-card">
         <p className="eyebrow">Coming soon</p>
-        <h1>Veston is getting a fresh look</h1>
+        <h1>Plaude Inc.is getting a fresh look</h1>
         <p className="lede">
           We are crafting a modern experience tailored to every screen size so you can stay close to the drops
           you care about most.
